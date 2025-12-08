@@ -24,15 +24,13 @@ Extensible architecture for future tasks
 
 🧰 Tech Stack
 
-(Modify as per your project)
-
 Node.js / Express.js (or Flask / Django / Spring — update as needed)
 
 Database: MongoDB / PostgreSQL / MySQL
 
 Testing: Jest / Mocha / PyTest / JUnit
 
-Tools: Postman, npm, Git
+#Tools: Postman, npm, Git
 
 🔧 API Endpoints (Typical Example)
 Method	Endpoint	Description
@@ -76,21 +74,21 @@ Good: “Add PUT API to update comments + test cases”
 
 Bad: “Changes done”
 
-Description
+#Description
 
 Fill out the entire PR description. This serves as documentation for future developers.
 
-Why this change is needed
+#Why this change is needed
 
 Explain the purpose (e.g., added new API, improved validation, fixed bug, added tests).
 Context prevents confusion and avoids future issues.
 
-API / Database Changes
+#API / Database Changes
 
 Document any updated or newly added routes or database fields.
 If none, mention “None.”
 
-Screenshots / Output Samples
+#Screenshots / Output Samples
 
 Include:
 
@@ -104,7 +102,7 @@ This speeds up code reviews.
 
 Testing
 
-Describe how you tested the change:
+#Describe how you tested the change:
 
 Automated tests
 
@@ -117,7 +115,7 @@ Assignee
 
 Assign the PR to yourself — you own this change.
 
-Labels
+#Labels
 
 Use relevant labels:
 
